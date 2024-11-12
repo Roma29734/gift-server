@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "name": "Delicious Cake",
+    "img": "/api/animation/gift-delicious-cake",
+    "description": "A shiny golden star for special users.",
+    "price": {
+      "value": 10,
+      "imgCurrency": "",
+      "nameCurrency": "USDT",
+      "currencyType": "crypto"
+    },
+    "bgColor": "#FE9F41"
+  },
+  {
+    "id": "2",
+    "name": "Green Star",
+    "img": "/api/animation/gift-green-star",
+    "description": "An elegant silver trophy.",
+    "price": {
+      "value": 25,
+      "imgCurrency": "",
+      "nameCurrency": "TON",
+      "currencyType": "crypto"
+    },
+    "bgColor": "#46D100"
+  },
+  {
+    "id": "3",
+    "name": "Blue Star",
+    "img": "/api/animation/gift-blue-star",
+    "description": "An elegant silver trophy.",
+    "price": {
+      "value": 13,
+      "imgCurrency": "",
+      "nameCurrency": "ETH",
+      "currencyType": "crypto"
+    },
+    "bgColor": "#007AFF"
+  }
+]
